@@ -1,0 +1,1 @@
+If you want to test the game, run it with the "gameHtml.html". NOTE: You must download all the files in the project to be able to run it.
